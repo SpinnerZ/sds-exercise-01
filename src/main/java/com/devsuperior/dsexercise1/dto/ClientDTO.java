@@ -1,8 +1,7 @@
-package com.devsuperior.dsExercise1.dto;
+package com.devsuperior.dsexercise1.dto;
 
-import com.devsuperior.dsExercise1.entities.Client;
+import com.devsuperior.dsexercise1.entities.Client;
 
-import javax.persistence.Column;
 import java.time.Instant;
 
 public class ClientDTO {

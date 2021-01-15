@@ -1,4 +1,4 @@
-package com.devsuperior.dsExercise1.entities;
+package com.devsuperior.dsexercise1.entities;
 
 import javax.persistence.*;
 import java.time.Instant;

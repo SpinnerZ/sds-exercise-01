@@ -1,4 +1,4 @@
-package com.devsuperior.dsExercise1;
+package com.devsuperior.dsexercise1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

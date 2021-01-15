@@ -1,4 +1,4 @@
-package com.devsuperior.dsExercise1;
+package com.devsuperior.dsexercise1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
