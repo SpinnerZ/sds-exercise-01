@@ -104,4 +104,15 @@ public class Client {
     public int hashCode() {
         return id.hashCode();
     }
+
+    @PrePersist
+    public void prePersist() {
+        createdAt = Instant.now();
+    }
+
+    @PreUpdate
+    public void preUpdate() {
+        updatedAt = Instant.now();
+    }
+
 }
